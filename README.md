@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My CV](./CV-2020.pdf)
+[My CV](./CV2020.pdf)
 
 <!--
 **huykingsofm/huykingsofm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
