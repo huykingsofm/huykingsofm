@@ -1,26 +1,31 @@
+
+[![GitHub Org's stars](https://img.shields.io/github/stars/xybor?color=yellow&label=xybor&labelColor=white&style=flat)](https://github.com/xybor)
+[![GitHub Org's stars](https://img.shields.io/github/stars/xybor-x?color=yellow&label=xybor-x&labelColor=black&style=flat)](https://github.com/xybor-x)
+
 ### Hi there 👋 I'm Huy!
 
-🔭 I’m currently working at [xybor](https://github.com/xybor) and
-[xybor-x](https://github.com/xybor-x).
+🔭 I'm currently working on:
 
-🤔 I’m looking for help with Golang projects, especially in
-[xybor-x](https://github.com/xybor-x).
-
-⚡ The projects I'm working on:
-
--   :memo: [xylog](https://github.com/xybor-x/xylog): leveled and structured
-    **logging**, dynamic fields, high performance, zone management, simple
-    configuration, and readable syntax.
--   :star: [xycond](https://github.com/xybor-x/xycond): supports to **assert**,
-    **expect**, or **testing** with many conditions.
--   :boom: [xyerror](https://github.com/xybor-x/xyerror): supports to define and
-    compare **errors** conveniently.
+-   [xylog](https://github.com/xybor-x/xylog): leveled and structured **logging**, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+-   [xycond](https://github.com/xybor-x/xycond): supports to **assert**, **expect**, or **testing** with many conditions.
+-   [xyerror](https://github.com/xybor-x/xyerror): supports to define and compare **errors** conveniently.
 
 📫 How to reach me:
 
--   :email: Email: huykingsofm@gmail.com
--   :arrow_forward: Facebook: <https://facebook.com/huyln99>
--   :link: Linkedin: <https://www.linkedin.com/in/huyln99>
+-   Email: huykingsofm@gmail.com
+-   Linkedin: https://www.linkedin.com/in/huyln99
+
+⚡ My fact:
+-   My original major is Information Security, but my passion is Programing. Now, I have both of them in my mind.
+-   I have worked with Python since 2018, and Golang since 2021. I am confident in both languages.
+-   I worked A BIT with C, C++, C#, Java, Javascript.
+-   Like writing library than building a full application, but I am trying to build a large one. It will be revealed in the near future.
+-   Rarely work with databases or side tools, but I like and want to use the in my application.
+
+✨***Technology changes live, mindset changes every things***✨
+
+*Sep 26, 2022*  
+Huy
 
 <!--
 **huykingsofm/huykingsofm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
