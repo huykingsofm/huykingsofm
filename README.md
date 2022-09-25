@@ -17,10 +17,10 @@
 
 ⚡ My fact:
 -   My original major is Information Security, but my passion is Programing. Now, I have both of them in my mind.
--   I have worked with Python since 2018, and Golang since 2021. I am confident in both languages.
--   I worked A BIT with C, C++, C#, Java, Javascript.
+-   I have worked with Python since 2018, and Golang since 2021. I am confident in these both languages.
+-   I worked *A BIT* with C, C++, C#, Java, Javascript.
 -   Like writing library than building a full application, but I am trying to build a large one. It will be revealed in the near future.
--   Rarely work with databases or side tools, but I like and want to use the in my application.
+-   Rarely work with databases or side tools, but I like and want to use them in my application.
 
 ✨***Technology changes live, mindset changes every things***✨
 
