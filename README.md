@@ -9,6 +9,8 @@
 -   [xylog](https://github.com/xybor-x/xylog): leveled and structured **logging**, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 -   [xycond](https://github.com/xybor-x/xycond): supports to **assert**, **expect**, or **testing** with many conditions.
 -   [xyerror](https://github.com/xybor-x/xyerror): supports to define and compare **errors** conveniently.
+-   [xyconfig](https://github.com/xybor-x/xyconfig): supports to thread-safe read, control, and monitor configuration files.
+-   [xypriv](https://github.com/xybor-x/xypriv): supports to central manage and control privileges that protect resources from illegal access.
 
 📫 How to reach me:
 
@@ -19,8 +21,6 @@
 -   My original major is Information Security, but my passion is Programing. Now, I have both of them in my mind.
 -   I have worked with Python since 2018, and Golang since 2021. I am confident in these both languages.
 -   I worked *A BIT* with C, C++, C#, Java, Javascript.
--   Like writing library than building a full application, but I am trying to build a large one. It will be revealed in the near future.
--   Rarely work with databases or side tools, but I like and want to use them in my application.
 
 ✨***Technology changes live, mindset changes every things***✨
 
