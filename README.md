@@ -6,11 +6,12 @@
 
 🔭 I'm currently working on:
 
+-   [xyauth](https://github.com/xybor/xyauth): authentication server.
+-   [xyconfig](https://github.com/xybor-x/xyconfig): supports to thread-safe read, control, and monitor configuration files.
+-   [xypriv](https://github.com/xybor-x/xypriv): supports to central manage and control privileges that protect resources from illegal access.
 -   [xylog](https://github.com/xybor-x/xylog): leveled and structured **logging**, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 -   [xycond](https://github.com/xybor-x/xycond): supports to **assert**, **expect**, or **testing** with many conditions.
 -   [xyerror](https://github.com/xybor-x/xyerror): supports to define and compare **errors** conveniently.
--   [xyconfig](https://github.com/xybor-x/xyconfig): supports to thread-safe read, control, and monitor configuration files.
--   [xypriv](https://github.com/xybor-x/xypriv): supports to central manage and control privileges that protect resources from illegal access.
 
 📫 How to reach me:
 
