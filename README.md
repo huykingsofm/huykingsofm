@@ -1,4 +1,3 @@
-
 [![GitHub Org's stars](https://img.shields.io/github/stars/xybor?color=yellow&label=xybor&labelColor=white&style=flat)](https://github.com/xybor)
 [![GitHub Org's stars](https://img.shields.io/github/stars/xybor-x?color=yellow&label=xybor-x&labelColor=black&style=flat)](https://github.com/xybor-x)
 
@@ -24,7 +23,7 @@
 -   I have worked with Python since 2018, and Golang since 2021. I am confident in these both languages.
 -   I worked *A BIT* with C, C++, C#, Java, Javascript.
 
-✨***Technology changes live, mindset changes every things***✨
+✨***Technology changes live, mindset changes every thing***✨
 
 *Sep 26, 2022*  
 Huy
