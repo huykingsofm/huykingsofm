@@ -6,7 +6,7 @@
 
 🔭 I'm currently working on:
 
--   [todennus](https://github.com/todennus): an microservice OpenID Connect, Authentication, and OAuth2 Provider.
+-   [todennus](https://github.com/todennus): a microservice OpenID Connect, Authentication, and OAuth2 Provider.
 -   [gojm](https://github.com/xybor-x/gojm): a robust, reliable, thread-safe, and priority-based job manager.
 -   [xyauth](https://github.com/xybor/xyauth): authentication server.
 -   [xyconfig](https://github.com/xybor-x/xyconfig): supports to thread-safe read, control, and monitor configuration files.
