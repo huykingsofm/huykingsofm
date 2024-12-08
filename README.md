@@ -5,10 +5,10 @@
 
 🔭 I'm currently working on:
 
+-   [enum](https://github.com/xybor-x/enum): an easy-to-use and powerful library for enum handling.
 -   [todennus](https://github.com/todennus): a microservice OpenID Connect, Authentication, and OAuth2 Provider.
 -   [gojm](https://github.com/xybor-x/gojm): a robust, reliable, thread-safe, and priority-based job manager.
 -   [xyconfig](https://github.com/xybor-x/xyconfig): supports to thread-safe read, control, and monitor configuration files.
--   [enum](https://github.com/xybor-x/enum): an easy-to-use and powerful library for enum handling.
 -   [xylog](https://github.com/xybor-x/xylog): leveled and structured **logging**, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 
 📫 How to reach me:
